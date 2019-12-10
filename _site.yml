@@ -1,0 +1,6 @@
+name: "Webpage-Assignment"
+navbar:
+  title: "R Markdown Presentation and Plotly Assignment"
+  left:
+    - text: "Home"
+      href: index.html
